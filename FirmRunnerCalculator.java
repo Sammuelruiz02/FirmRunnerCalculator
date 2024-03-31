@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 import javax.swing.text.html.Option;
 
 
-public class Myfirstproject {
+public class FirmRunnerCalculator {
 
 
     public static void main(String args[]){
